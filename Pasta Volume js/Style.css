@@ -1,0 +1,41 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.nome {
+    text-align: center;
+}
+
+#header {
+    background-color: rgb(198, 132, 44);
+    
+}
+.caixa {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 100px;
+
+}
+
+.solido {
+    width: 100px;
+    border-style: hidden;
+    border-color: rgb(0, 0, 0);
+}
+
+#header1 {
+    background-color: aquamarine;
+}
